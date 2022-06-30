@@ -2,6 +2,16 @@
 
 ### Brute force scanner v0.2
 
+**Example**
+
+Input: Network tab, and request payload
+![](../1.png)
+
+
+Output: log with mixed corr and wrong answers
+![](../2.png)
+
+
 **Core logic:** 
 
 - **Input**: data(endpoint) provided manually
