@@ -5,11 +5,12 @@
 **Example**
 
 Input: Network tab, and request payload
-![](../1.png)
+![1](https://user-images.githubusercontent.com/19240229/176669437-1c3eebd5-e206-468e-8615-a6255c3c4139.png)
 
 
 Output: log with mixed corr and wrong answers
-![](../2.png)
+![2](https://user-images.githubusercontent.com/19240229/176669465-3a4060df-144a-4dcd-9090-731577367ed6.png)
+
 
 
 **Core logic:** 
